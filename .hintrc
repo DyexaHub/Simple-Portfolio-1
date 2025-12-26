@@ -1,0 +1,20 @@
+{
+  "extends": [
+    "development"
+  ],
+  "hints": {
+    "meta-viewport": "off",
+    "compat-api/css": [
+      "default",
+      {
+        "ignore": [
+          "backdrop-filter",
+          "min-height: auto"
+        ]
+      }
+    ],
+    "no-inline-styles": "off",
+    "axe/name-role-value": "off",
+    "button-type": "off"
+  }
+}

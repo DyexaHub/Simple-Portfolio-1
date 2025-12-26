@@ -1,0 +1,12 @@
+  <style>
+  <style>@view-transition { navigation: auto; }</style>
+    <style>
+    <style>
+    <style>
+   <style>
+  </style>
+  <style>@view-transition { navigation: auto; }</style>
+      </style>
+      </style>
+      </style>
+    </style>
