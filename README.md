@@ -28,8 +28,8 @@ It is built as a foundation project that can be continuously enhanced while main
 
 ## 🛠️ Tech Stack
 
-- **HTML5** – Semantic and structured markup  
-- **CSS3** – Custom styling, gradients, and animations  
+- **HTML** – Semantic and structured markup  
+- **CSS** – Custom styling, gradients, and animations  
 - **JavaScript** – Interactivity and dynamic behavior  
 
 No frameworks. Just core web fundamentals.
