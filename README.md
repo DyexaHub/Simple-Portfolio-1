@@ -40,15 +40,10 @@ No frameworks. Just core web fundamentals.
 
 ```
 
-simple-portofolio-1/
+site/
 ├── index.html
-├── css/
-│   └── style.css
-├── js/
-│   └── script.js
-├── assets/
-│   └── preview.png
-└── README.md
+├── style.css
+├── script.js
 
 ```
 
@@ -81,4 +76,3 @@ This project is open-source and available under the **MIT License**.
 Full Stack Developer & Graphic Designer  
 
 ⭐ If you like this project, feel free to star the repository!
-```
